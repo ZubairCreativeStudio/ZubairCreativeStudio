@@ -1,102 +1,37 @@
-# Hi, I'm Muhammad Zubair Ayub Khan 👋
+<h1 align="center">Hi 👋, I'm Muhammad Zubair Ayub Khan</h1>
+<h3 align="center">A passionate frontend developer & graphic designer from Pakistan</h3>
 
-## Frontend Developer & Graphic Designer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadzubairkhan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadzubairkhan" /> </p>
 
-I’m passionate about creating modern digital experiences through clean frontend development and creative graphic design. I work on responsive websites, UI/UX concepts, branding, social media designs, and creative visual content.
+- 🔭 I’m currently working on [Zeetemp](https://zeetemp.kesug.com/)
 
-I enjoy combining creativity with technology to build projects that look professional, engaging, and user-friendly.
+- 🌱 I’m currently learning **Web development Course**
 
----
+- 💬 Ask me about **HTML,CSS,JS**
 
-# 🚀 About Me
+- 📫 How to reach me **zubaircreativestudio@gmail.com**
 
-* 🎨 Professional Graphic Designer
-* 💻 Frontend Developer
-* 🌐 Building responsive and modern web experiences
-* ✨ Passionate about UI/UX and creative design
-* 📚 Continuously learning new technologies and design trends
-* 🎯 Focused on creating clean and high-quality digital work
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-zubair-ayub-khan-187a77289?originalSubdomain=pk](https://www.linkedin.com/in/muhammad-zubair-ayub-khan-187a77289?originalSubdomain=pk)
 
----
+- ⚡ Fun fact **I think I am deep thinker**
 
-# 🛠️ Skills & Technologies
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zubaircreativestudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubaircreativestudio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadzubairayubkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadzubairayubkhan" height="30" width="40" /></a>
+<a href="https://fb.com/muhammadzubairayubkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadzubairayubkhan" height="30" width="40" /></a>
+<a href="https://instagram.com/zubaircreativestudiooffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubaircreativestudiooffical" height="30" width="40" /></a>
+<a href="https://dribbble.com/zubaircreativestudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="zubaircreativestudio" height="30" width="40" /></a>
+<a href="https://www.behance.net/zubaircreativestudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zubaircreativestudio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zubaircreativestudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zubaircreativestudio" height="30" width="40" /></a>
+</p>
 
-## Frontend Development
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* UI/UX Design
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/muhammadzubairayubkhan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="muhammadzubairayubkhan" /></a></p><br><br>
 
-## Graphic Design
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzubairkhan&show_icons=true&locale=en&layout=compact" alt="muhammadzubairkhan" /></p>
 
-* Adobe Photoshop
-* Adobe Illustrator
-* Banner Design
-* Social Media Post Design
-* YouTube Thumbnail Design
-* Logo Design
-* Photo Manipulation
-* Branding Design
-
----
-
-# 📌 Current Focus
-
-* Building modern frontend projects
-* Improving UI/UX design skills
-* Creating professional portfolio projects
-* Exploring creative web animations and interactions
-* Learning advanced frontend technologies
-
----
-
-# 🌟 Featured Projects
-
-### 🎨 Creative Design Portfolio
-
-Professional social media posts, banners, thumbnails, and branding projects.
-
-### 💻 Responsive Frontend Projects
-
-Modern responsive websites with clean UI and user-friendly layouts.
-
-### 🚀 UI/UX Concepts
-
-Creative interface designs focused on user experience and modern aesthetics.
-
----
-
-# 📊 GitHub Stats
-
-```md
-Add your GitHub stats here using GitHub Readme Stats:
-https://github.com/anuraghazra/github-readme-stats
-```
-
----
-
-# 🔥 Most Used Languages
-
-```md
-Add your top languages card here:
-https://github.com/anuraghazra/github-readme-stats
-```
-
----
-
-# 🌐 Connect With Me
-
-* YouTube: [https://youtube.com/@ZubairCreativeStudio](https://youtube.com/@ZubairCreativeStudio)
-* GitHub: [https://github.com/zubaircreativestudio](https://github.com/zubaircreativestudio)
-
----
-
-# 💡 Quote
-
-> "Creativity and code together can build amazing digital experiences."
-
----
-
-⭐ Thanks for visiting my profile!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadzubairkhan&show_icons=true&locale=en" alt="muhammadzubairkhan" /></p>
